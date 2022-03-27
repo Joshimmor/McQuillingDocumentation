@@ -1,4 +1,4 @@
-McQuilling Search Client Documentation
+# McQuilling Search Client Documentation
 Needs to be updated to reflect last iteration of SearchClientApp
 Angular Router and Microsoft Azure Directory
 
